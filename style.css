@@ -31,7 +31,8 @@
     font-size: 20px;
     color: white;
     padding: 18px 35px;
-    border-radius: 10px
+    border-radius: 10px;
+    border: none;
 }
 .section-title{
     font-size: 35px;
